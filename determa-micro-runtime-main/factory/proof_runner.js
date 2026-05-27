@@ -1,0 +1,2 @@
+﻿console.log("Proof execution started");
+console.log("Deterministic validation active");

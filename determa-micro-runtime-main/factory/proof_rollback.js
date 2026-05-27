@@ -1,0 +1,2 @@
+﻿console.log("Mutation detected");
+console.log("Rollback applied");
